@@ -3,23 +3,23 @@
 layout: home
 
 hero:
-  name: "Cosmoslide Documentation"
-  text: "Guide and Documentation for Cosmoslide"
-  tagline: My great project tagline
+  name: "Cosmoslide"
+  text: "Slideshare for the Fediverse"
+  tagline: Share slide presentations across the decentralized web using ActivityPub
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Get Started
+      link: /tutorial/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Learn Concepts
+      link: /concepts/
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Decentralized Sharing
+    details: Upload and share PDF slide decks across the Fediverse. Your content stays on your instance while reaching audiences everywhere.
+  - title: ActivityPub Integration
+    details: Built on the W3C ActivityPub standard, enabling seamless federation with Mastodon, Pleroma, and other Fediverse platforms.
+  - title: Social Interactions
+    details: Engage with slides through likes, boosts, and comments. Follow creators and discover presentations across the network.
 ---
 
