@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Cosmoslide",
   description: "Guide and Documentation for Cosmoslide",
-  base: '/docs/',
+  base: '/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
